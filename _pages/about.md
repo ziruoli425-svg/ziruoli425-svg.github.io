@@ -13,7 +13,7 @@ redirect_from:
 
 I work on **computer vision and intelligent robotics for agriculture**, with a focus on visual perception, livestock phenotyping, and autonomous harvesting.
 
-Since June 2026, I have been conducting research at the Institute of Mechatronics & Logistics Equipment, **Shanghai Jiao Tong University**, focusing on autonomous sweet pepper harvesting and vision-language-action (VLA) models. I received my M.Eng. in Agricultural Electrification and Automation from **China Agricultural University** in 2026, advised by Prof. Gang Liu, and my B.Eng. in Railway Traffic Signal and Control from **East China Jiaotong University** in 2022.
+Since June 2026, I have been conducting research at the Institute of Mechatronics & Logistics Equipment, [**Shanghai Jiao Tong University**](https://global.sjtu.edu.cn/en/), focusing on autonomous sweet pepper harvesting and vision-language-action (VLA) models. I received my M.Eng. in Agricultural Electrification and Automation from [**China Agricultural University**](https://en.cau.edu.cn/) in 2026, advised by Prof. Gang Liu, and my B.Eng. in Railway Traffic Signal and Control from [**East China Jiaotong University**](https://eng.ecjtu.edu.cn/) in 2022.
 
 **Research interests:** computer vision, multimodal learning, robotic perception, intelligent livestock phenotyping, and agricultural robotics.
 
@@ -124,17 +124,17 @@ Built a keypoint-based pipeline for cattle body-height and body-length measureme
 
 # Education
 
-- **China Agricultural University** — M.Eng., Agricultural Electrification and Automation, Sep 2023–Jun 2026. GPA: 3.64.
-- **East China Jiaotong University** — B.Eng., Railway Traffic Signal and Control, Sep 2018–Jul 2022. GPA: 3.61; top 10%.
+- [**China Agricultural University**](https://en.cau.edu.cn/) — M.Eng., Agricultural Electrification and Automation, Sep 2023–Jun 2026. GPA: 3.64.
+- [**East China Jiaotong University**](https://eng.ecjtu.edu.cn/) — B.Eng., Railway Traffic Signal and Control, Sep 2018–Jul 2022. GPA: 3.61; top 10%.
 
 <span class="anchor" id="experience"></span>
 
 # Experience
 
-- **Shanghai Jiao Tong University**, Institute of Mechatronics & Logistics Equipment, Jun 2026–Present. Autonomous harvesting and VLA-based robotic decision making.
-- **China Agricultural University**, Key Laboratory of Smart Agriculture System Integration Research, Ministry of Education, Sep 2023–Jun 2026. Advisor: Prof. Gang Liu.
+- [**Shanghai Jiao Tong University**](https://global.sjtu.edu.cn/en/), Institute of Mechatronics & Logistics Equipment, Jun 2026–Present. Autonomous harvesting and VLA-based robotic decision making.
+- [**China Agricultural University**](https://en.cau.edu.cn/), Key Laboratory of Smart Agriculture System Integration Research, Ministry of Education, Sep 2023–Jun 2026. Advisor: Prof. Gang Liu.
 - **China Railway Electrification Engineering Group**, Signaling Engineer, Aug 2022–Jun 2023. Railway signaling and communications design; integrated testing for Xi'an Metro Line 16.
-- **East China Jiaotong University**, Signal Innovation Laboratory, Nov 2018–Mar 2021. Advisor: Assoc. Prof. Xiaoming Wang. RFID and sensor-based railway inspection systems.
+- [**East China Jiaotong University**](https://eng.ecjtu.edu.cn/), Signal Innovation Laboratory, Nov 2018–Mar 2021. Advisor: Assoc. Prof. Xiaoming Wang. RFID and sensor-based railway inspection systems.
 
 <span class="anchor" id="awards"></span>
 
