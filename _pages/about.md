@@ -48,45 +48,41 @@ Publication details and statuses below follow my academic CV. **Bold** indicates
 
 - **Ziruo Li**, Yadan Zhang, Xi Kang, Tianci Mao, Yanbin Li, and Gang Liu*. Individual Recognition of a Group Beef Cattle Based on Improved YOLO v5. Agriculture, 2025, 15(13): 1391.. [Published · SCI]
 
-  <div class="publication-links"><a href="https://doi.org/10.3390/agriculture15131391">Available online</a> &middot; <a href="https://www.mdpi.com/2077-0472/15/13/1391/pdf">PDF</a> &middot; <span style="color:#999" title="Link not yet available">Code</span></div>
+  <div class="publication-links"><a href="https://doi.org/10.3390/agriculture15131391">Available online</a></div>
 
 - **Ziruo Li**, Yadan Zhang, Yao Chong, Ying Han, Zenglong Song, Xueting Zeng, Xiaocong Li, and Gang Liu*. Beef Cattle Body Weight Estimation Based on Dual-View RGB Images. Animals, 2026, 16(16): 2532.. [Published · SCI]
 
-  <div class="publication-links"><a href="https://doi.org/10.3390/ani16162532">Available online</a> &middot; <a href="https://www.mdpi.com/2076-2615/16/16/2532/pdf">PDF</a> &middot; <span style="color:#999" title="Link not yet available">Code</span></div>
+  <div class="publication-links"><a href="https://doi.org/10.3390/ani16162532">Available online</a></div>
 
 - **Ziruo Li**, Xiaocong Li, Yadan Zhang, Xueting Zeng, Wenlong Yin, Chong Yao, and Gang Liu*. Automatic Measurement of Beef Cattle Body Dimensions Based on Improved YOLO11n-Pose and Effective Pose-Frame Screening. Transactions of the Chinese Society for Agricultural Machinery. Online first.. [Published · EI]
 
-  <div class="publication-links"><a href="https://link.cnki.net/urlid/11.1964.S.20260731.1003.002">Available online</a> &middot; <span style="color:#999" title="Link not yet available">PDF</span> &middot; <span style="color:#999" title="Link not yet available">Code</span></div>
+  <div class="publication-links"><a href="https://link.cnki.net/urlid/11.1964.S.20260731.1003.002">Available online</a></div>
 
 - **Ziruo Li**, Zenglong Song, Wenlong Yin, and Gang Liu*. Automatic Measurement of Beef Cattle Body Dimensions Based on Improved YOLO11n-Pose. Transactions of the Chinese Society for Agricultural Machinery. [Accepted · EI]
 
-  <div class="publication-links"><span style="color:#999" title="Link not yet available">Available online</span> &middot; <span style="color:#999" title="Link not yet available">PDF</span> &middot; <span style="color:#999" title="Link not yet available">Code</span></div>
-
 - **Ziruo Li**, Xueting Zeng, Yadan Zhang, Wenlong Yin, Xingdan Wang, and Gang Liu*. Beef Cattle Body Weight Estimation under Natural Walking Conditions Based on a Cross-Attention Mechanism. Transactions of the Chinese Society for Agricultural Machinery. [Accepted · EI]
-
-  <div class="publication-links"><span style="color:#999" title="Link not yet available">Available online</span> &middot; <span style="color:#999" title="Link not yet available">PDF</span> &middot; <span style="color:#999" title="Link not yet available">Code</span></div>
 
 ### Co-authored Papers
 
 - Mengyuan Chu, Yongsheng Si, **Ziruo Li**, Qian Li, and Gang Liu*. Multi-feature image layers fusion for accurate detection of dairy cow mastitis using deep learning. Computers and Electronics in Agriculture, 2025, 239: 110937.. [Published · SCI]
 
-  <div class="publication-links"><a href="https://doi.org/10.1016/j.compag.2025.110937">Available online</a> &middot; <span style="color:#999" title="Link not yet available">PDF</span> &middot; <span style="color:#999" title="Link not yet available">Code</span></div>
+  <div class="publication-links"><a href="https://doi.org/10.1016/j.compag.2025.110937">Available online</a></div>
 
 - Yadan Zhang, Xueting Zeng, **Ziruo Li**, Yize Liu, Xiaocong Li, Ying Han, Gang Liu, and Jun Wang. Research on an automated detection for sheep estrus based on multimodal fusion of thermal images and sensor data. Computers and Electronics in Agriculture, 2026, 249: 111848.. [Published · SCI]
 
-  <div class="publication-links"><a href="https://doi.org/10.1016/j.compag.2026.111848">Available online</a> &middot; <span style="color:#999" title="Link not yet available">PDF</span> &middot; <span style="color:#999" title="Link not yet available">Code</span></div>
+  <div class="publication-links"><a href="https://doi.org/10.1016/j.compag.2026.111848">Available online</a></div>
 
 - Ying Han, Yongsheng Si, Zhijiang He, Qian Li, **Ziruo Li**, Man Zhang, and Gang Liu*. Dynamic weighing system for dairy cows based on arrayed weighing platforms. Computers and Electronics in Agriculture, 2025, 230: 109943.. [Published · SCI]
 
-  <div class="publication-links"><a href="https://doi.org/10.1016/j.compag.2025.109943">Available online</a> &middot; <span style="color:#999" title="Link not yet available">PDF</span> &middot; <span style="color:#999" title="Link not yet available">Code</span></div>
+  <div class="publication-links"><a href="https://doi.org/10.1016/j.compag.2025.109943">Available online</a></div>
 
 - Chong Yao, Qian Li, **Ziruo Li**, Tianci Mao, Xue Tian, Ping Song, Miao Zhang*, and Gang Liu*. Optimizing Two-Stream Asymmetric Feature Extraction Architecture with Dynamic Re-parameterization for Enhancing Beef Cattle Weight Estimation. Computers and Electronics in Agriculture, 2026, 245: 111539.. [Published · SCI]
 
-  <div class="publication-links"><a href="https://doi.org/10.1016/j.compag.2026.111539">Available online</a> &middot; <span style="color:#999" title="Link not yet available">PDF</span> &middot; <span style="color:#999" title="Link not yet available">Code</span></div>
+  <div class="publication-links"><a href="https://doi.org/10.1016/j.compag.2026.111539">Available online</a></div>
 
 - Ping Song, Chong Yao, **Ziruo Li**, Tianci Mao, Ying Yang*, and Gang Liu*. Body Mass Estimation of Group-Housed Beef Cattle Based on Attention Mechanisms and Cross-Modal Hierarchical Feature Fusion. Transactions of the Chinese Society of Agricultural Engineering, 2025, 41(10): 221-231.. [Published · EI]
 
-  <div class="publication-links"><a href="https://doi.org/10.11975/j.issn.1002-6819.202412117">Available online</a> &middot; <span style="color:#999" title="Link not yet available">PDF</span> &middot; <span style="color:#999" title="Link not yet available">Code</span></div>
+  <div class="publication-links"><a href="https://doi.org/10.11975/j.issn.1002-6819.202412117">Available online</a></div>
 
 <span class="anchor" id="education"></span>
 
