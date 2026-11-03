@@ -42,47 +42,83 @@ Built a keypoint-based pipeline for cattle body-height and body-length measureme
 
 # Publications
 
-Publication details and statuses below follow my academic CV. **Bold** indicates my name; an asterisk indicates a corresponding author.
+<style>
+.publication-item{position:relative;margin:0 0 30px;padding-left:18px}
+.publication-item:before{content:"•";position:absolute;left:0;top:0}
+.publication-item p{margin:0 0 9px!important}
+.publication-title{font-weight:700}
+.publication-detail{display:flex;gap:28px;align-items:center;margin-top:22px}
+.publication-figure{width:40%;height:auto;box-shadow:0 1px 7px #0002}
+.publication-summary{flex:1;line-height:1.6}
+@media(max-width:600px){.publication-detail{flex-direction:column;gap:14px}.publication-figure{width:100%}}
+</style>
+
 
 ### First-author Papers
 
-- **Ziruo Li**, Yadan Zhang, Xi Kang, Tianci Mao, Yanbin Li, and Gang Liu*. Individual Recognition of a Group Beef Cattle Based on Improved YOLO v5. Agriculture, 2025, 15(13): 1391.. [Published · SCI]
+<div class="publication-item">
+<p><span class="publication-title">Individual Recognition of a Group Beef Cattle Based on Improved YOLO v5</span> [<a href="https://doi.org/10.3390/agriculture15131391">Available online</a>]</p>
+<p><strong>Ziruo Li</strong>, Yadan Zhang, Xi Kang, Tianci Mao, Yanbin Li, and Gang Liu*</p>
+<p>Agriculture, 2025, 15(13): 1391. [Published · SCI]</p>
+<div class="publication-detail"><!-- Add a real paper figure here when supplied. --><p class="publication-summary">This work develops a lightweight model for recognizing individual beef cattle in group-housing environments. Attention mechanisms and structural pruning improve recognition while reducing model size for edge deployment. The model achieves 93.2% precision with 52.1% fewer parameters.</p></div>
+</div>
 
-  <div class="publication-links"><a href="https://doi.org/10.3390/agriculture15131391">Available online</a></div>
+<div class="publication-item">
+<p><span class="publication-title">Beef Cattle Body Weight Estimation Based on Dual-View RGB Images</span> [<a href="https://doi.org/10.3390/ani16162532">Available online</a>]</p>
+<p><strong>Ziruo Li</strong>, Yadan Zhang, Yao Chong, Ying Han, Zenglong Song, Xueting Zeng, Xiaocong Li, and Gang Liu*</p>
+<p>Animals, 2026, 16(16): 2532. [Published · SCI]</p>
+<div class="publication-detail"><!-- Add a real paper figure here when supplied. --><p class="publication-summary">This work investigates non-contact beef cattle body-weight estimation using paired top-view and side-view RGB images. A dual-stream network combines complementary morphological features from the two views to support automated livestock monitoring.</p></div>
+</div>
 
-- **Ziruo Li**, Yadan Zhang, Yao Chong, Ying Han, Zenglong Song, Xueting Zeng, Xiaocong Li, and Gang Liu*. Beef Cattle Body Weight Estimation Based on Dual-View RGB Images. Animals, 2026, 16(16): 2532.. [Published · SCI]
+<div class="publication-item">
+<p><span class="publication-title">Automatic Measurement of Beef Cattle Body Dimensions Based on Improved YOLO11n-Pose and Effective Pose-Frame Screening</span> [<a href="https://link.cnki.net/urlid/11.1964.S.20260731.1003.002">Available online</a>]</p>
+<p><strong>Ziruo Li</strong>, Xiaocong Li, Yadan Zhang, Xueting Zeng, Wenlong Yin, Chong Yao, and Gang Liu*</p>
+<p>Transactions of the Chinese Society for Agricultural Machinery. Online first. [Published · EI]</p>
+</div>
 
-  <div class="publication-links"><a href="https://doi.org/10.3390/ani16162532">Available online</a></div>
+<div class="publication-item">
+<p><span class="publication-title">Automatic Measurement of Beef Cattle Body Dimensions Based on Improved YOLO11n-Pose</span></p>
+<p><strong>Ziruo Li</strong>, Zenglong Song, Wenlong Yin, and Gang Liu*</p>
+<p>Transactions of the Chinese Society for Agricultural Machinery. [Accepted · EI]</p>
+</div>
 
-- **Ziruo Li**, Xiaocong Li, Yadan Zhang, Xueting Zeng, Wenlong Yin, Chong Yao, and Gang Liu*. Automatic Measurement of Beef Cattle Body Dimensions Based on Improved YOLO11n-Pose and Effective Pose-Frame Screening. Transactions of the Chinese Society for Agricultural Machinery. Online first.. [Published · EI]
-
-  <div class="publication-links"><a href="https://link.cnki.net/urlid/11.1964.S.20260731.1003.002">Available online</a></div>
-
-- **Ziruo Li**, Zenglong Song, Wenlong Yin, and Gang Liu*. Automatic Measurement of Beef Cattle Body Dimensions Based on Improved YOLO11n-Pose. Transactions of the Chinese Society for Agricultural Machinery. [Accepted · EI]
-
-- **Ziruo Li**, Xueting Zeng, Yadan Zhang, Wenlong Yin, Xingdan Wang, and Gang Liu*. Beef Cattle Body Weight Estimation under Natural Walking Conditions Based on a Cross-Attention Mechanism. Transactions of the Chinese Society for Agricultural Machinery. [Accepted · EI]
+<div class="publication-item">
+<p><span class="publication-title">Beef Cattle Body Weight Estimation under Natural Walking Conditions Based on a Cross-Attention Mechanism</span></p>
+<p><strong>Ziruo Li</strong>, Xueting Zeng, Yadan Zhang, Wenlong Yin, Xingdan Wang, and Gang Liu*</p>
+<p>Transactions of the Chinese Society for Agricultural Machinery. [Accepted · EI]</p>
+</div>
 
 ### Co-authored Papers
 
-- Mengyuan Chu, Yongsheng Si, **Ziruo Li**, Qian Li, and Gang Liu*. Multi-feature image layers fusion for accurate detection of dairy cow mastitis using deep learning. Computers and Electronics in Agriculture, 2025, 239: 110937.. [Published · SCI]
+<div class="publication-item">
+<p><span class="publication-title">Multi-feature image layers fusion for accurate detection of dairy cow mastitis using deep learning</span> [<a href="https://doi.org/10.1016/j.compag.2025.110937">Available online</a>]</p>
+<p>Mengyuan Chu, Yongsheng Si, <strong>Ziruo Li</strong>, Qian Li, and Gang Liu*</p>
+<p>Computers and Electronics in Agriculture, 2025, 239: 110937. [Published · SCI]</p>
+</div>
 
-  <div class="publication-links"><a href="https://doi.org/10.1016/j.compag.2025.110937">Available online</a></div>
+<div class="publication-item">
+<p><span class="publication-title">Research on an automated detection for sheep estrus based on multimodal fusion of thermal images and sensor data</span> [<a href="https://doi.org/10.1016/j.compag.2026.111848">Available online</a>]</p>
+<p>Yadan Zhang, Xueting Zeng, <strong>Ziruo Li</strong>, Yize Liu, Xiaocong Li, Ying Han, Gang Liu, and Jun Wang</p>
+<p>Computers and Electronics in Agriculture, 2026, 249: 111848. [Published · SCI]</p>
+</div>
 
-- Yadan Zhang, Xueting Zeng, **Ziruo Li**, Yize Liu, Xiaocong Li, Ying Han, Gang Liu, and Jun Wang. Research on an automated detection for sheep estrus based on multimodal fusion of thermal images and sensor data. Computers and Electronics in Agriculture, 2026, 249: 111848.. [Published · SCI]
+<div class="publication-item">
+<p><span class="publication-title">Dynamic weighing system for dairy cows based on arrayed weighing platforms</span> [<a href="https://doi.org/10.1016/j.compag.2025.109943">Available online</a>]</p>
+<p>Ying Han, Yongsheng Si, Zhijiang He, Qian Li, <strong>Ziruo Li</strong>, Man Zhang, and Gang Liu*</p>
+<p>Computers and Electronics in Agriculture, 2025, 230: 109943. [Published · SCI]</p>
+</div>
 
-  <div class="publication-links"><a href="https://doi.org/10.1016/j.compag.2026.111848">Available online</a></div>
+<div class="publication-item">
+<p><span class="publication-title">Optimizing Two-Stream Asymmetric Feature Extraction Architecture with Dynamic Re-parameterization for Enhancing Beef Cattle Weight Estimation</span> [<a href="https://doi.org/10.1016/j.compag.2026.111539">Available online</a>]</p>
+<p>Chong Yao, Qian Li, <strong>Ziruo Li</strong>, Tianci Mao, Xue Tian, Ping Song, Miao Zhang*, and Gang Liu*</p>
+<p>Computers and Electronics in Agriculture, 2026, 245: 111539. [Published · SCI]</p>
+</div>
 
-- Ying Han, Yongsheng Si, Zhijiang He, Qian Li, **Ziruo Li**, Man Zhang, and Gang Liu*. Dynamic weighing system for dairy cows based on arrayed weighing platforms. Computers and Electronics in Agriculture, 2025, 230: 109943.. [Published · SCI]
-
-  <div class="publication-links"><a href="https://doi.org/10.1016/j.compag.2025.109943">Available online</a></div>
-
-- Chong Yao, Qian Li, **Ziruo Li**, Tianci Mao, Xue Tian, Ping Song, Miao Zhang*, and Gang Liu*. Optimizing Two-Stream Asymmetric Feature Extraction Architecture with Dynamic Re-parameterization for Enhancing Beef Cattle Weight Estimation. Computers and Electronics in Agriculture, 2026, 245: 111539.. [Published · SCI]
-
-  <div class="publication-links"><a href="https://doi.org/10.1016/j.compag.2026.111539">Available online</a></div>
-
-- Ping Song, Chong Yao, **Ziruo Li**, Tianci Mao, Ying Yang*, and Gang Liu*. Body Mass Estimation of Group-Housed Beef Cattle Based on Attention Mechanisms and Cross-Modal Hierarchical Feature Fusion. Transactions of the Chinese Society of Agricultural Engineering, 2025, 41(10): 221-231.. [Published · EI]
-
-  <div class="publication-links"><a href="https://doi.org/10.11975/j.issn.1002-6819.202412117">Available online</a></div>
+<div class="publication-item">
+<p><span class="publication-title">Body Mass Estimation of Group-Housed Beef Cattle Based on Attention Mechanisms and Cross-Modal Hierarchical Feature Fusion</span> [<a href="https://doi.org/10.11975/j.issn.1002-6819.202412117">Available online</a>]</p>
+<p>Ping Song, Chong Yao, <strong>Ziruo Li</strong>, Tianci Mao, Ying Yang*, and Gang Liu*</p>
+<p>Transactions of the Chinese Society of Agricultural Engineering, 2025, 41(10): 221-231. [Published · EI]</p>
+</div>
 
 <span class="anchor" id="education"></span>
 
