@@ -1,58 +1,107 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<span class="anchor" id="about-me"></span>
 
-<span class='anchor' id='about-me'></span>
+# About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I work on **computer vision and intelligent robotics for agriculture**, with a focus on visual perception, livestock phenotyping, and autonomous harvesting.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Since June 2026, I have been conducting research at the Institute of Mechatronics & Logistics Equipment, **Shanghai Jiao Tong University**, focusing on autonomous sweet pepper harvesting and vision-language-action (VLA) models. I received my M.Eng. in Agricultural Electrification and Automation from **China Agricultural University** in 2026, advised by Prof. Gang Liu, and my B.Eng. in Railway Traffic Signal and Control from **East China Jiaotong University** in 2022.
 
+**Research interests:** computer vision, multimodal learning, robotic perception, intelligent livestock phenotyping, and agricultural robotics.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[Email](mailto:ziruoli425@gmail.com) · [GitHub](https://github.com/ziruoli425-svg) · [Download CV](/files/Li_Ziruo_Academic_CV.pdf)
 
-# 📝 Publications 
+<span class="anchor" id="research"></span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# Research Projects
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+### Autonomous Sweet Pepper Harvesting
+**Shanghai Jiao Tong University · Jun 2026–Present**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Integrating visual perception and robot control for target detection, localization, and autonomous manipulation under severe greenhouse occlusion. Exploring VLA models to combine visual observations and language instructions for task understanding and action planning.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+### Non-contact Beef Cattle Weight Estimation
+**China Agricultural University · 2023–2026**
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+Developed a dual-stream ResNet50 model to fuse top-view and side-view RGB features for non-contact body-weight estimation. Served as technical lead on a JD.com-supported weight-estimation project (Nov 2023–Nov 2024).
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+### Automated Body Measurement and Individual Recognition
+**China Agricultural University · 2023–2026**
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Built a keypoint-based pipeline for cattle body-height and body-length measurement. Led an industry body-measurement project (Nov 2024–Jul 2025). Developed a lightweight YOLOv5 recognition model with **93.2% precision** and **52.1% fewer parameters** for edge deployment.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<span class="anchor" id="publications"></span>
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# Publications
+
+Publication details and statuses below follow my academic CV. **Bold** indicates my name; an asterisk indicates a corresponding author.
+
+### First-author Papers
+
+- **Ziruo Li**, Yadan Zhang, Xi Kang, Tianci Mao, Yanbin Li, and Gang Liu*. Individual Recognition of a Group Beef Cattle Based on Improved YOLO v5. Agriculture, 2025, 15(13): 1391. [Paper](https://doi.org/10.3390/agriculture15131391). [Published · SCI]
+
+- **Ziruo Li**, Yadan Zhang, Yao Chong, Ying Han, Zenglong Song, Xueting Zeng, Xiaocong Li, and Gang Liu*. Beef Cattle Body Weight Estimation Based on Dual-View RGB Images. Animals, 2026, 16(16): 2532. [Paper](https://doi.org/10.3390/ani16162532). [Published · SCI]
+
+- **Ziruo Li**, Xiaocong Li, Yadan Zhang, Xueting Zeng, Wenlong Yin, Chong Yao, and Gang Liu*. Automatic Measurement of Beef Cattle Body Dimensions Based on Improved YOLO11n-Pose and Effective Pose-Frame Screening. Transactions of the Chinese Society for Agricultural Machinery. Online first. [Paper](https://link.cnki.net/urlid/11.1964.S.20260731.1003.002). [Published · EI]
+
+- **Ziruo Li**, Zenglong Song, Wenlong Yin, and Gang Liu*. Automatic Measurement of Beef Cattle Body Dimensions Based on Improved YOLO11n-Pose. Transactions of the Chinese Society for Agricultural Machinery. [Accepted · EI]
+
+- **Ziruo Li**, Xueting Zeng, Yadan Zhang, Wenlong Yin, Xingdan Wang, and Gang Liu*. Beef Cattle Body Weight Estimation under Natural Walking Conditions Based on a Cross-Attention Mechanism. Transactions of the Chinese Society for Agricultural Machinery. [Accepted · EI]
+
+### Co-authored Papers
+
+- Mengyuan Chu, Yongsheng Si, **Ziruo Li**, Qian Li, and Gang Liu*. Multi-feature image layers fusion for accurate detection of dairy cow mastitis using deep learning. Computers and Electronics in Agriculture, 2025, 239: 110937. [Paper](https://doi.org/10.1016/j.compag.2025.110937). [Published · SCI]
+
+- Yadan Zhang, Xueting Zeng, **Ziruo Li**, Yize Liu, Xiaocong Li, Ying Han, Gang Liu, and Jun Wang. Research on an automated detection for sheep estrus based on multimodal fusion of thermal images and sensor data. Computers and Electronics in Agriculture, 2026, 249: 111848. [Paper](https://doi.org/10.1016/j.compag.2026.111848). [Published · SCI]
+
+- Ying Han, Yongsheng Si, Zhijiang He, Qian Li, **Ziruo Li**, Man Zhang, and Gang Liu*. Dynamic weighing system for dairy cows based on arrayed weighing platforms. Computers and Electronics in Agriculture, 2025, 230: 109943. [Paper](https://doi.org/10.1016/j.compag.2025.109943). [Published · SCI]
+
+- Chong Yao, Qian Li, **Ziruo Li**, Tianci Mao, Xue Tian, Ping Song, Miao Zhang*, and Gang Liu*. Optimizing Two-Stream Asymmetric Feature Extraction Architecture with Dynamic Re-parameterization for Enhancing Beef Cattle Weight Estimation. Computers and Electronics in Agriculture. [Published · SCI]
+
+- Ping Song, Chong Yao, **Ziruo Li**, Tianci Mao, Ying Yang*, and Gang Liu*. Body Mass Estimation of Group-Housed Beef Cattle Based on Attention Mechanisms and Cross-Modal Hierarchical Feature Fusion. Transactions of the Chinese Society of Agricultural Engineering, 2025, 41(10): 221-231. [Paper](https://doi.org/10.11975/j.issn.1002-6819.202412117). [Published · EI]
+
+<span class="anchor" id="education"></span>
+
+# Education
+
+- **China Agricultural University** — M.Eng., Agricultural Electrification and Automation, Sep 2023–Jun 2026. GPA: 3.64.
+- **East China Jiaotong University** — B.Eng., Railway Traffic Signal and Control, Sep 2018–Jul 2022. GPA: 3.61; top 10%.
+
+<span class="anchor" id="experience"></span>
+
+# Experience
+
+- **Shanghai Jiao Tong University**, Institute of Mechatronics & Logistics Equipment, Jun 2026–Present. Autonomous harvesting and VLA-based robotic decision making.
+- **China Agricultural University**, Key Laboratory of Smart Agriculture System Integration Research, Ministry of Education, Sep 2023–Jun 2026. Advisor: Prof. Gang Liu.
+- **China Railway Electrification Engineering Group**, Signaling Engineer, Aug 2022–Jun 2023. Railway signaling and communications design; integrated testing for Xi'an Metro Line 16.
+- **East China Jiaotong University**, Signal Innovation Laboratory, Nov 2018–Mar 2021. Advisor: Assoc. Prof. Xiaoming Wang. RFID and sensor-based railway inspection systems.
+
+<span class="anchor" id="awards"></span>
+
+# Selected Honors and Awards
+
+- Outstanding Graduate of Beijing Municipality.
+- Outstanding Graduate, China Agricultural University.
+- BYD Scholarship, 2024–2025 (13 recipients college-wide).
+- First-Class Academic Scholarship, China Agricultural University, 2024–2025.
+- Second-Class Academic Scholarship, China Agricultural University, 2023–2024.
+- Second Prize, A5+N Artificial Intelligence and Remote Sensing Competition, 2025.
+- Third Prize (Provincial), May Day Cup Mathematical Modeling Competition, 2024.
+- Outstanding Graduation Project, East China Jiaotong University, 2022.
+
+# Technical Skills
+
+**Programming:** Python, C++.  
+**Methods:** deep learning, multimodal feature fusion, keypoint detection, pose estimation, instance segmentation, and edge deployment.  
+**Applications:** livestock phenotyping, agricultural robotics, sensor integration, and real-time monitoring.
+
+---
+Built with [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io).
